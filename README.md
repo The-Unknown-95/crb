@@ -3,12 +3,6 @@
 
   <p align="center">
     Bot that plays Clash Royale and learns by playing games
-    <br />
-    <a href="https://github.com/krazyness/CRBot-public"><strong>Explore the docs »</strong></a>
-    <br />
-    <a href="https://github.com/krazyness/CRBot-public/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
-    &middot;
-    <a href="https://github.com/krazyness/CRBot-public/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
 
